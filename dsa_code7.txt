@@ -1,0 +1,11 @@
+graphe is a network of nodes
+
+google map ,uber ye sub uses graph
+
+uses in nurel network
+
+edge = (undirected,directed)
+
+edge wait -> (undirec unwight , undir wegited,directed wegited,directed unwegited)
+
+
